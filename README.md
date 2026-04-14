@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo
-👉 https://your-live-link-here.netlify.app/
+👉 https://warda-createshoppinglistapp.netlify.app/
 
 ---
 
